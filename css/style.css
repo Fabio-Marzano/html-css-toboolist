@@ -5,8 +5,8 @@
 }
 
 header {
-    height: 75px;
-    background-color: red;
+    padding: 10px 0px 10px 10px;
+    
 }
 
 main {
@@ -16,4 +16,16 @@ main {
 
 body {
     font-family: Arial, sans-serif;
+}
+
+h1 {
+    font-size: 45px;
+}
+
+.vertical-align {
+    vertical-align: middle;
+}
+
+.d-inline-block {
+    display: inline-block
 }
