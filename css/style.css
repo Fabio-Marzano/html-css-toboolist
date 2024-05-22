@@ -11,7 +11,7 @@ header {
 
 main {
     height: 700px;
-    background-color: gray;
+    
     padding: 40px 0px;
     
 }
@@ -66,7 +66,7 @@ h1 {
 .content {
     border-radius: 15px;
     background-color: white;
-    height: 300px;
+    
 }
 
 .top {
@@ -76,8 +76,7 @@ h1 {
 }
 
 .bottom {
-    background-color: white;
-    height: 550px;
+    
     padding: 30px 30px;
 }
 
@@ -88,3 +87,55 @@ ul {
 li {
     margin: 30px 0px;
 }
+
+.circle {
+    padding: 3px 5px;
+    margin-right: 10px;
+    border-radius: 50%;
+}
+
+.label {
+    padding: 7px 15px;
+    border-radius: 20px;
+    color: white;
+    font-size: 11px;
+    
+}
+
+.lightblue {
+    background-color: blue;
+}
+
+.green {
+    color: green;
+    border: 1px solid green;
+    
+}
+
+.red {
+    color: red;
+    border: 1px solid red;
+    
+}
+
+.purple {
+    background-color: purple;
+
+}
+
+.pink {
+    background-color: pink;
+}
+
+.darkgreen {
+    background-color: darkgreen;
+}
+
+.lightgreen {
+    background-color: lightgreen;
+}
+
+.orange {
+    background-color: orange;
+}
+]
